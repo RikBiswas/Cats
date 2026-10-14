@@ -1,0 +1,6 @@
+{
+  "name": "WhiskerWise - Cat Care, Nutrition & Health Authority",
+  "description": "Evidence-based feline health guides, unbiased cat product reviews, nutrition calculators, and breed care advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
